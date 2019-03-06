@@ -1,7 +1,0 @@
-Crear una branca per cada un dels participants, en la que es es farà una modificació personalitzada del fitxer exercici.html
-
-En aquesta branca només hi haurà d'haver aquest fitxer, els altres només han d'estar a la branca principal (master)
-
-Tornar a la branca principal i afegir un checkbox al costat del vostre nom per indicar que s'ha fet l'activitat.
-
-
